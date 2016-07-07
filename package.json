@@ -1,0 +1,15 @@
+{
+  "name": "wp-library-setup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack -p",
+    "build-dev": "webpack -d -w"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "webpack": "^1.13.1"
+  }
+}
